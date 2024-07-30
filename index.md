@@ -3,7 +3,7 @@ layout: default
 ---
 
 <video width="1280" height="720" controls autoplay muted loop>
-<source src="https://michael1410.github.io/RobotGoon/videos/WebIntroG.mp4" type="video/mp4">
+<source src="https://michael1410.github.io/RobotGoon/videos/WebIntroG.mp4](https://github.com/YeeShenT/Lane-Detection-Algorithm-Web/blob/main/image/output-ideal-condition.mp4" type="video/mp4">
  Your browser does not support the video tag.
 </video>
 
