@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<video src="https://michael1410.github.io/RobotGoon/videos/WebIntroG.mp4](https://github.com/YeeShenT/Lane-Detection-Algorithm-Web/blob/main/image/output-ideal-condition.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<img src="https://github.com/YeeShenT/Lane-Detection-Algorithm-Web/blob/main/image/output-ideal-condition-ezgif.com-video-to-gif-converter.gif" width="100%" height="250"/>
 
 
 
