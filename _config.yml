@@ -1,5 +1,6 @@
+title: Lane Detection Algorithm
+# description: [A short description of your site's purpose]
 
-title: hello
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
