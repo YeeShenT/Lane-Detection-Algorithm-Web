@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<img src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" width="100%" height="250"/>
+<video width="1280" height="720" controls autoplay muted loop>
+<source src="https://michael1410.github.io/RobotGoon/videos/WebIntroG.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+</video>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
